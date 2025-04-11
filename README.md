@@ -22,7 +22,7 @@ Our goal: to provide useful and fun utilities for players across all kinds of Ro
 ## 🔗 Discord
 
 Join our official server for sneak peeks, script requests, and community events:  
-**[Discord Invite](https://discord.gg/your-invite)** *(replace with your real invite)*
+**https://discord.gg/y4XaB9ZRcG
 
 ## 🧠 Coming Soon
 
